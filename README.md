@@ -1,2 +1,2 @@
 This repository contains files needed to run ci/cd pipelines in a remote repository. 
-Note: based on an apache server
+Note: gitlab repository based on an apache server
